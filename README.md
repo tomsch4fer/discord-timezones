@@ -17,7 +17,7 @@ Justification for this is the very practical while using the discord app.
 
 - add bots:
   ```js
-  /timezones add *timezone*
+  /timezones add `*timezone*`
   ```
 - remove bots:
   ```js
