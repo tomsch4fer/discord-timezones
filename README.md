@@ -1,5 +1,5 @@
 <p align="center">
-<img width="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F1499151-me-and-the-boys&psig=AOvVaw3OFvVyXZYV67C8PIz2dNJM&ust=1695861308831000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCk0ejFyYEDFQAAAAAdAAAAABAR">
+<img width="600" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F1499151-me-and-the-boys&psig=AOvVaw3OFvVyXZYV67C8PIz2dNJM&ust=1695861308831000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCk0ejFyYEDFQAAAAAdAAAAABAR](https://i.kym-cdn.com/photos/images/original/001/499/151/a17.png)">
 
 
 # discord-timezones
