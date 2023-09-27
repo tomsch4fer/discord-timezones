@@ -15,6 +15,9 @@ Justification for this is the very practical while using the discord app.
 
 ## Usage
 
-- add bots: ```/timezones add *timezone*```
+- add bots:
+  ```js
+  /timezones add *timezone*
+  ```
 - remove bots: `/timezones *timezone*` or kick individual bots
 - list avalible bots & commands: `/timezones help/list`
