@@ -9,7 +9,7 @@ Justification for this is the very practical while using the discord app.
 
 ## Setup
 
-1. click [here](https://catbounce.com) to give the bot access & rights.
+1. click [here](https://theuselessweb.com/) to give the bot access & rights.
 2. go to `settings > permissions > roles > timezones` and switch `show as seperate category` *on*
 3. add timezone bots according to our liking
 
