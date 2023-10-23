@@ -26,3 +26,6 @@
   ```js
   /timezones help/list
   ```
+## Todo
+- Update README.md image for usage video
+- add full command list
